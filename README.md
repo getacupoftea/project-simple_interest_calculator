@@ -1,6 +1,7 @@
 DESCRIPTION:
 
-Having recently completed the "INTRODUCTION TO WEB DEVELOPMENT" course sponsored by IBM and delivered on Coursera, I embarked on a practice project to create a simple interest calculator.
+Having recently completed the "INTRODUCTION TO WEB DEVELOPMENT" course sponsored by IBM and delivered on Coursera, I embarked on a practice project to create a simple interest calculator. To do this,I created
+three files (index.html, style.css, & script.js)
 
 ![Simple Interest Calculator](https://github.com/getacupoftea/project-simple_interest_calculator/assets/125554239/0d9c8d9b-5e21-4806-ac97-03b593549bef)
 
