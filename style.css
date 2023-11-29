@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+    font-family: arial;
+    color: black;
+}
+
+h1 {
+    color: black;
+    font-family: consats;
+}
+
+.maindiv {
+    background-color: red;
+    color: black;
+    width: 300px;
+    padding: 30px;
+    border-radius: 21px;
+    text-align: center;
+}
